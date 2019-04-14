@@ -23,9 +23,9 @@
 
 	hello.init({
 
-		trustmaster: {
+		fusionauth: {
 
-			name: 'Trustmaster',
+			name: 'Fusionauth',
 
 			oauth: {
 				version: "2",
